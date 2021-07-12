@@ -15,7 +15,7 @@ This is a script where players can registrate their vehicles on a set location. 
 
 ## Showcase
 
-![](https://youtu.be/mTxP8uSGqX0)
+[Video](https://youtu.be/mTxP8uSGqX0)
 
 ## Buy
 
