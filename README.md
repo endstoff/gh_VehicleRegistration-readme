@@ -23,7 +23,7 @@ This is a script where players can registrate their vehicles on a set location. 
 
 ## Integration into esx_policejob
 
-Check out the documentation [docs](https://docs.ghostscripts.xyz/paid-scripts/vehicle-registration)
+Check out the [docs](https://docs.ghostscripts.xyz/paid-scripts/vehicle-registration)
 
 ## Known Issues
 
