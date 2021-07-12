@@ -21,13 +21,9 @@ This is a script where players can registrate their vehicles on a set location. 
 
 [Tebex](https://ghostscripts.tebex.io/package/4573131)
 
-## esx_policejob compatibility
+## Integration into esx_policejob
 
-Replace this in
-[server.lua](https://pastebin.com/irnD64nH)
-
-Replace this in
-[client.lua](https://pastebin.com/CEBXe9Fx)
+Check out the documentation [docs](https://docs.ghostscripts.xyz/paid-scripts/vehicle-registration)
 
 ## Known Issues
 
